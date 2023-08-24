@@ -3,11 +3,11 @@
   <title>wumian&#39;s blog</title>
   
   <subtitle>生活明朗, 万物可爱</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zengpei66.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zengpei66.github.io/"/>
   <updated>2023-08-23T08:17:51.421Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zengpei66.github.io/</id>
   
   <author>
     <name>雾眠</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://zengpei66.github.io/posts/4a17b156.html"/>
+    <id>https://zengpei66.github.io/posts/4a17b156.html</id>
     <published>2023-08-23T07:37:55.234Z</published>
     <updated>2023-08-23T08:17:51.421Z</updated>
     
