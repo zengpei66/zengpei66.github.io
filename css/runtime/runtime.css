@@ -7,6 +7,12 @@ div#runtime {
     background-color: rgba(0, 0, 0, .7)
 }
 
+/* 翻页按钮居中 */
+#pagination {
+    width: 100%;
+    margin: auto;
+}
+
 #workboard {
     font-size: 12px
 }
