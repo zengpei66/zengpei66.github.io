@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>https://zengpei66.github.io/fcircle/index.html</loc>
+    
+    <lastmod>2023-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zengpei66.github.io/posts/67ca883b.html</loc>
+    
+    <lastmod>2023-09-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zengpei66.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-09-21</lastmod>
@@ -64,15 +82,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://zengpei66.github.io/fcircle/index.html</loc>
-    
-    <lastmod>2023-09-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://zengpei66.github.io/</loc>
@@ -81,6 +90,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://zengpei66.github.io/tags/JAVA/</loc>
+    <lastmod>2023-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://zengpei66.github.io/tags/java/</loc>
